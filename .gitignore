@@ -1,0 +1,13 @@
+# Node:
+node_modules
+
+# Video grabber (past of module):
+downloads
+
+# Any kind of logs:
+*.log
+.log
+
+
+# Webstorm files:
+.idea
