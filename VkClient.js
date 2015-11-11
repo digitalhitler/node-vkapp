@@ -1,11 +1,12 @@
 'use strict';
 
 /*
+VkClient.js
 
-@todo:  request queue
-        http/https
-        real auth
-
+@author Sergey S Petrenko <spetrenko@me.com>
+@see https://github.com/sergpetrenko/node-vkapp
+@class VkClient
+@todo see README.md
  */
 
 const util            = require('util'),
